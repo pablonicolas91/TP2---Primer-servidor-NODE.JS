@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Primer Servidor Tp",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js",
     "watch": "node --watch index.js",
